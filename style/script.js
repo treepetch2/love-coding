@@ -4,7 +4,7 @@ $(document).ready(function () {
   const resetBtn = $("#resetBtn");
 
   let currentPage = 1;
-  const totalPages = 23;
+  const totalPages = 24;
   let isOpen = false;
 
   envelope.on('click', function () {
